@@ -11,7 +11,7 @@ function App() {
         </p>
         <a
           class={styles.link}
-          href="https://github.com/solidjs/solid"
+          href="https://github.com/JoHnny-OP/Capacitor-Vite-JSX-Template"
           target="_blank"
           rel="noopener noreferrer"
         >
