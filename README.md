@@ -1,11 +1,11 @@
 ## Usage
 
 ```bash
-$ git clone https://github.com/JoHnny-OP/Capacitor-Vite-JSX-Template.git
+git clone https://github.com/JoHnny-OP/Capacitor-Vite-JSX-Template.git
 ```
 
 ```bash
-$ npm install # or pnpm install or yarn install
+npm install # or pnpm install or yarn install
 ```
 
 
